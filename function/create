@@ -1,0 +1,5 @@
+    <form action="/board_create_process" method="post">
+        <p><input type="text" name="title" placeholder="제목을 입력해주세요"></p>
+        <p><textarea name="discription" cols="30" rows="10" placeholder="내용을 입력해주세요"></textarea></p>
+        <p><input type="submit"></p>
+    </form>

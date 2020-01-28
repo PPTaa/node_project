@@ -1,0 +1,4 @@
+    <form action="/board_create" method="post">
+        <input type="hidden" name="id" value="0">
+        <input type="submit" value="작성">
+    </form>
